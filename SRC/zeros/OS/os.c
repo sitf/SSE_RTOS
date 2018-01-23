@@ -1,14 +1,4 @@
-/*---------------------------------------
--* File:    RTOS
--* AUTHOR： kite
--* E_MAIL:  1216104245@qq.com
--* TIME：   2017/03/06
--* VERSION：V2.0
--* MODIFY：	重写互斥信号量函数
--*			修改OSTimeDly延时函数
--*			修复消息队列消息满载bug
--* WARNING：此实时操作系统仅供学习参考，请勿用于商业用途！
--*---------------------------------------*/
+
 #define OS_SET
 #include "os.h"
 #include "stdio.h"
