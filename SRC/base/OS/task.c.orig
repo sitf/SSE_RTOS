@@ -1,0 +1,15 @@
+#include "task.h"
+
+void  task_create (
+	tcb        *p_tcb,
+	app_addr    app,
+	tU4        prio,
+	stack_base       *p_stk_base,
+	stack_size   stk_size
+)
+{
+
+
+
+
+};
